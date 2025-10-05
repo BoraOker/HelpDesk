@@ -229,7 +229,7 @@ The application uses two separate database contexts:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](path/to/your/screenshot.png)
+![Home Page](img/Home.png)
 &nbsp;
 
 &nbsp;
