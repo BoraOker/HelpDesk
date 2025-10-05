@@ -1,0 +1,80 @@
+@model TicketViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Request Form</title>
+    <link rel="stylesheet" href="/css/ticket.css">
+</head>
+<body>
+    <div class="container">
+        <form asp-controller="Ticket" asp-action="CreateTicket" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="All"></div>
+            <h1>Support Request Form</h1>
+            @if(User.Identity?.IsAuthenticated == false) {
+                <div class="mb-3">
+                    <label asp-for="Email">Email</label>
+                    <input asp-for="Email" required type="email">
+                </div>
+            }
+            <div class="mb-3">
+                <label asp-for="ProductId">Product</label>
+                <select id="productSelect" asp-items="ViewBag.Products" asp-for="ProductId" class="form-select">
+                    <option>Select</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ProductCategoryId">Feedback Category</label>
+                <select id="categorySelect" asp-items="ViewBag.ProductCategories" asp-for="ProductCategoryId" class="form-select">
+                    <option>Select</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ProblemSummary">Problem Summary</label>
+                <input asp-for="ProblemSummary" type="text" id="sorun">
+            </div>
+            <div  class="mb-3">
+                <label asp-for="Problem">Description</label>
+                <textarea asp-for="Problem"></textarea>
+            </div> 
+            <div  class="mb-3">
+                <label asp-for="TicketFile">Send File</label>
+                <input type="file" name="ticketFile" asp-for="TicketFile">
+            </div>           
+            <input type="submit" value="Submit" id="button">
+        </form>
+    </div>
+</body>
+</html>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#productSelect').change(function() {
+            var productId = $(this).val();
+            if(productId) {
+                $.ajax({
+                    url: '@Url.Action("GetProductCategories","Ticket")',
+                    type: 'GET',
+                    data: {productId:productId},
+                    success: function (data) {
+                        var categorySelect = $('#categorySelect');
+                        categorySelect.empty();
+                        categorySelect.append('<option>Select</option>');
+                        $.each(data, function(index,item) {
+                            categorySelect.append(new Option(item.text,item.value));
+                        });
+
+                    }
+                });
+            } else {
+                $('#categorySelect').empty();
+            }
+        });
+    });
+</script>

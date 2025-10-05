@@ -1,0 +1,37 @@
+@model IEnumerable<ProductCategory>
+    @{
+        Layout = "_DashboardLayout";
+    }
+    
+    <div class="recent-orders">
+        <h1>Categories</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th >Product Category ID</th>
+                    <th>Category content</th>
+                    <th>Product Name</th>
+                    <th ></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var category in Model) {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => category.ProductCategoryId)</td>
+                        <td>@Html.DisplayFor(modelItem => category.CategoryContext)</td>
+                        <td>@Html.DisplayFor(modelItem => category.Product.ProductName)</td>
+                        <td>
+                            <a asp-controller="ProductCategory" asp-action="Edit" asp-route-id="@category.ProductCategoryId"><button class="styled-link yellow-button">Edit</button></a>
+                        <a asp-controller="ProductCategory" asp-action="Delete" asp-route-id="@category.ProductCategoryId"><button class="styled-link red-button">Delete</button></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="button-container">
+        <a asp-action="CreateProductCategory">
+            <button class="styled-button">Add New Category</button>
+        </a>        
+    </div>
+    <script src="/js/active.js"></script>

@@ -1,0 +1,14 @@
+@model Product
+@{
+    Layout = "_DashboardLayout";
+}
+
+<div class="recent-orders">
+    <form asp-controller="Product" asp-action="Edit" method="post">
+        <div asp-validation-summary="All"></div>
+        <input type="hidden" asp-for="ProductId">
+        <h2>Update Product</h2>
+        <input type="text" asp-for="ProductName" placeholder="Product Name" required>
+        <button type="submit">Save</button>
+    </form>
+</div>

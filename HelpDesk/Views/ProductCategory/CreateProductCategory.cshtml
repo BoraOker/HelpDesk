@@ -1,0 +1,16 @@
+@model ProductCategoryViewModel
+@{
+    Layout = "_DashboardLayout";
+}
+
+<div class="recent-orders">
+    <form asp-controller="ProductCategory" asp-action="CreateProductCategory" method="post">
+        <div asp-validation-summary="All"></div>
+        <h2>Add Category</h2>
+        <input type="text" asp-for="CategoryContext" placeholder="Category Context" required>
+        <select asp-for="ProductId" asp-items="ViewBag.Products" required>
+            <option value="">Select Product</option>
+        </select>
+        <button type="submit">Save</button>
+    </form>
+</div>

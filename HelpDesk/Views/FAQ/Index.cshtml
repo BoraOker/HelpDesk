@@ -1,0 +1,36 @@
+@model IEnumerable<FAQ>
+    @{
+        Layout = "_DashboardLayout";
+    }
+    
+    <div class="recent-orders">
+        <h1>Frequently Asked Questions</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th >@Html.DisplayNameFor(m => m.Header)</th>
+                    <th>@Html.DisplayNameFor(m => m.Context)</th>
+                    <th>@Html.DisplayNameFor(m => m.Product.ProductName)</th>
+                    <th ></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var faq in Model) {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => faq.Header)</td>
+                        <td>@Html.DisplayFor(modelItem => faq.Context)</td>
+                        <td>@Html.DisplayFor(modelItem => faq.Product.ProductName)</td>
+                        <td>
+                            <a asp-controller="FAQ" asp-action="Edit" asp-route-id="@faq.FAQId"><button class="styled-link yellow-button">Edit</button></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="button-container">
+        <a asp-action="Create">
+            <button class="styled-button">Add New FAQ</button>
+        </a>  
+    </div>
+    <script src="/js/active.js"></script>

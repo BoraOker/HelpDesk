@@ -1,0 +1,35 @@
+@model IEnumerable<Product>
+@{
+    Layout = "_DashboardLayout";
+}
+
+<div class="recent-orders">
+    <h1>Products</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(m => m.ProductId)</th>
+                <th>@Html.DisplayNameFor(m => m.ProductName)</th>
+                <th ></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var product in Model) {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => product.ProductId)</td>
+                    <td>@Html.DisplayFor(modelItem => product.ProductName)</td>
+                    <td>
+                        <a asp-controller="Product" asp-action="Edit" asp-route-id="@product.ProductId"><button class="styled-link yellow-button">Details</button></a>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.ProductId"><button class="styled-link red-button">Delete</button></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="button-container">
+    <a asp-action="CreateProduct">
+        <button class="styled-button">Add New Product</button>
+    </a>  
+</div>
+<script src="/js/active.js"></script>

@@ -1,0 +1,97 @@
+@model List<FAQ>
+  @{
+  Layout = null;
+  }
+
+  <!DOCTYPE html>
+  <html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequently Asked Questions</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Frequently Asked Questions</h1>
+      <div class="select-container">
+        <label for="faq-select-productSelect">Select a product:</label>
+        <select id="faq-select-productSelect" asp-items="ViewBag.Products" required>
+          <option value="">Select Product</option>
+        </select>
+      </div>
+      <div id="faq-container">
+      </div>
+        <p>Didn't find the answer you were looking for?<a href="/ticket/CreateTicket">Submit a ticket.</a></p>
+      @if(User.Identity?.IsAuthenticated == true) {
+      <button class="btn btn-primary"><a asp-controller="Ticket" asp-action="MyTickets"
+          style="font-size: 17px;text-decoration: none;color: black;">My Tickets</a></button>
+      }else {
+      <p>Hello, please <a href="/Account/Login">log in</a> to view your past tickets.</p>
+      }
+
+      <div class="button-container">
+        @if(User.Identity?.IsAuthenticated == true) {
+        <a>Hello, @User.Identity.Name</a>
+        <button class="btn btn-primary"><a asp-controller="Account" asp-action="Logout"
+            style="font-size: 17px;text-decoration: none;color: black;">Sign out</a></button>
+        if(User.IsInRole("Admin") || User.IsInRole("Manager")){
+        <button class="btn btn-primary"><a asp-controller="Dashboard" asp-action="Index"
+            style="font-size: 17px;text-decoration: none;color: black;">Admin Dashboard</a></button>
+        }
+        }
+        else {
+        <button class="btn btn-primary"><a href="/Account/Login"
+            style="font-size: 17px;text-decoration: none;color: black;">Sign in</a></button>
+        <button class="btn btn-primary"><a href="/Account/Register"
+            style="font-size: 17px;text-decoration: none;color: black;">Sign up</a></button>
+        }
+      </div>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $('#faq-select-productSelect').change(function () {
+          var productId = $(this).val();
+          if (productId) {
+            $.ajax({
+              url: '@Url.Action("GetFAQsByProduct", "Home")',
+              type: 'GET',
+              data: { productId: productId },
+              success: function (data) {
+                var faqContainer = $('#faq-container');
+                faqContainer.empty(); // Mevcut içerikleri temizle
+
+                $.each(data, function (index, faq) {
+                  var faqHtml = `
+                            <div class="tab">
+                                <input type="radio" name="acc" id="acc${index + 1}">
+                                <label for="acc${index + 1}">
+                                    <h2>${('0' + (index + 1)).slice(-2)}</h2>
+                                    <h3>${faq.header}</h3>
+                                </label>
+                                <div class="content">
+                                    <p>${faq.context}</p>
+                                </div>
+                            </div>`;
+                  faqContainer.append(faqHtml);
+                });
+              },
+              error: function (xhr, status, error) {
+                console.error("An error occurred while fetching FAQs: ", error);
+              }
+            });
+          } else {
+            $('#faq-container').empty(); // Ürün seçimi kaldırıldığında içerikleri temizle
+          }
+        });
+      });
+    </script>
+  </body>
+
+  </html>

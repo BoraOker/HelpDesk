@@ -1,0 +1,13 @@
+@model Product
+@{
+    Layout = "_DashboardLayout";
+}
+<p>
+    Do you want to delete the product named <b>@Model.ProductName</b>?
+
+   <form asp-action="Delete" method="post">
+    <input type="hidden" name="id" value="@Model.ProductId">
+    <button type="submit">Yes</button>
+    <a asp-action="Index">No</a>
+   </form>
+</p>

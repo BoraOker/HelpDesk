@@ -1,0 +1,1108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\migrations\\identity\\identitycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:migrations\\identity\\identitycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\migrations\\identity\\20240531171001_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:migrations\\identity\\20240531171001_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\migrations\\20240531170937_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:migrations\\20240531170937_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\shared\\_dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\ticket\\createticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\ticket\\createticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\faq\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\faq\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\taghelpers\\roleuserstaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:taghelpers\\roleuserstaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\viewmodels\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:viewmodels\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\viewmodels\\faqviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:viewmodels\\faqviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\viewmodels\\productcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:viewmodels\\productcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\viewmodels\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:viewmodels\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\ticket\\mytickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\ticket\\mytickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\productcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\productcategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\productcategory\\createproductcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\productcategory\\createproductcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\faq\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\faq\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\views\\faq\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:views\\faq\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|c:\\users\\nfsbo\\desktop\\helpdesk\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D35247-098C-4A82-A399-D3DAA95037D6}|HelpDesk.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240531171001_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\Identity\\20240531171001_Identity.cs",
+              "RelativeDocumentMoniker": "Migrations\\Identity\\20240531171001_Identity.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\Identity\\20240531171001_Identity.cs",
+              "RelativeToolTip": "Migrations\\Identity\\20240531171001_Identity.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:06:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T12:00:04.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T11:59:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T11:58:56.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:58:54.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-05T11:43:58.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:15:28.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "Models\\SmtpEmailSender.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\SmtpEmailSender.cs",
+              "RelativeToolTip": "Models\\SmtpEmailSender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:12:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\Identity\\IdentityContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\Identity\\IdentityContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\Identity\\IdentityContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\Identity\\IdentityContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:06:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T11:59:18.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240531170937_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\20240531170937_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240531170937_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\20240531170937_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240531170937_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:10:40.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:00.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T11:21:48.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T11:46:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:24:07.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\FAQ\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\FAQ\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\FAQ\\Index.cshtml",
+              "RelativeToolTip": "Views\\FAQ\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T11:19:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:29:25.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateTicket.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Ticket\\CreateTicket.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ticket\\CreateTicket.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Ticket\\CreateTicket.cshtml",
+              "RelativeToolTip": "Views\\Ticket\\CreateTicket.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T10:40:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T10:44:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T10:44:32.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:26:45.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_DashboardLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_DashboardLayout.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Shared\\_DashboardLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_DashboardLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:43:11.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:19:44.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Views\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T11:18:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:07:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:12:39.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\CreateUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T09:19:17.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleUsersTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\TagHelpers\\RoleUsersTagHelper.cs",
+              "RelativeDocumentMoniker": "TagHelpers\\RoleUsersTagHelper.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\TagHelpers\\RoleUsersTagHelper.cs",
+              "RelativeToolTip": "TagHelpers\\RoleUsersTagHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:17:49.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditUserViewModel.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\EditUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:18:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FAQViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\FAQViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FAQViewModel.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\FAQViewModel.cs",
+              "RelativeToolTip": "ViewModels\\FAQViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:18:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\ProductCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\ProductCategoryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:18:03.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:18:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TicketViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\TicketViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TicketViewModel.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\ViewModels\\TicketViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TicketViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:18:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyTickets.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Ticket\\MyTickets.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ticket\\MyTickets.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Ticket\\MyTickets.cshtml",
+              "RelativeToolTip": "Views\\Ticket\\MyTickets.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T10:43:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T10:40:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:42:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:41:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:41:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductCategory\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:39:19.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductCategory\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ProductCategory\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:39:19.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductCategory\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ProductCategory\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:38:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateProductCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\CreateProductCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductCategory\\CreateProductCategory.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\ProductCategory\\CreateProductCategory.cshtml",
+              "RelativeToolTip": "Views\\ProductCategory\\CreateProductCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:37:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:37:12.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:36:57.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:35:33.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:35:16.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\FAQ\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\FAQ\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\FAQ\\Edit.cshtml",
+              "RelativeToolTip": "Views\\FAQ\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:28:49.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\FAQ\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\FAQ\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Views\\FAQ\\Create.cshtml",
+              "RelativeToolTip": "Views\\FAQ\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T09:28:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:12:01.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Models\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\IEmailSender.cs",
+              "RelativeToolTip": "Models\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:29.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IdentityContext.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\IdentityContext.cs",
+              "RelativeDocumentMoniker": "Models\\IdentityContext.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\IdentityContext.cs",
+              "RelativeToolTip": "Models\\IdentityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:28.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FAQ.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\FAQ.cs",
+              "RelativeDocumentMoniker": "Models\\FAQ.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\FAQ.cs",
+              "RelativeToolTip": "Models\\FAQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:25.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Models\\AppRole.cs",
+              "RelativeToolTip": "Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:11:23.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:10:27.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:07:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:07:25.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductCategoryController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "Controllers\\ProductCategoryController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:07:16.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:07:13.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FAQController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\FAQController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FAQController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\FAQController.cs",
+              "RelativeToolTip": "Controllers\\FAQController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:07:05.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:06:56.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\HelpDesk\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:48:43.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

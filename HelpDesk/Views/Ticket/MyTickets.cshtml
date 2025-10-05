@@ -1,0 +1,50 @@
+@model IEnumerable<Ticket>
+@{
+Layout = null;
+}
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Tickets</title>
+    <link rel="stylesheet" href="/css/mytickets.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>My Tickets</h1>
+        <div class="button-container">
+            <button><a asp-controller="Home" asp-action="Index">Home</a></button>
+            <button><a asp-controller="Ticket" asp-action="CreateTicket">Send New Ticket</a></button>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ticket ID</th>
+                    <th>Product</th>
+                    <th>Category</th>
+                    <th>Summary</th>
+                    <th>Problem</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ticket in Model)
+                {
+                    <tr>
+                        <td>@ticket.TicketId</td>
+                        <td>@ticket.Product.ProductName</td>
+                        <td>@ticket.ProductCategory.CategoryContext</td>
+                        <td>@ticket.ProblemSummary</td>
+                        <td>@ticket.Problem</td>
+                        <td>@ticket.TicketDate.ToShortDateString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

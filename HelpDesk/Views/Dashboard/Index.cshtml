@@ -1,0 +1,63 @@
+@model IEnumerable<Ticket>
+    @{
+    Layout = "_DashboardLayout";
+    }
+    <h1>Admin Dashboard</h1>
+    <!-- Analyses -->
+    <div class="analyse">
+        <div class="sales">
+            <div class="status">
+                <div class="info">
+                    <h3>Opened Tickets</h3>
+                    <h1>@ViewBag.TicketCount</h1>
+                </div>
+            </div>
+        </div>
+        <div class="visits">
+            <div class="status">
+                <div class="info">
+                    <h3>Pending Tickets</h3>
+                    <h1>150</h1>
+                </div>
+            </div>
+        </div>
+        <div class="searches">
+            <div class="status">
+                <div class="info">
+                    <h3>Closed Tickets</h3>
+                    <h1>14,147</h1>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="recent-orders">
+        <h2>New Tickets</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(m => m.TicketId)</th>
+                    <th>@Html.DisplayNameFor(m => m.Email)</th>
+                    <th>@Html.DisplayNameFor(m => m.Product.ProductName)</th>
+                    <th>@Html.DisplayNameFor(m => m.ProductCategory.CategoryContext)</th>
+                    <th>@Html.DisplayNameFor(m => m.ProblemSummary)</th>
+                    <th>@Html.DisplayNameFor(m => m.Problem)</th>
+                    <th>@Html.DisplayNameFor(m => m.TicketDate)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var ticket in Model) {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => ticket.TicketId)</td>
+                    <td>@Html.DisplayFor(modelItem => ticket.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => ticket.Product.ProductName)</td>
+                    <td>@Html.DisplayFor(modelItem => ticket.ProductCategory.CategoryContext)</td>
+                    <td>@Html.DisplayFor(modelItem => ticket.ProblemSummary)</td>
+                    <td>@Html.DisplayFor(modelItem => ticket.Problem)</td>
+                    <td>@Html.DisplayFor(modelItem => ticket.TicketDate)</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <script src="/js/active.js"></script>

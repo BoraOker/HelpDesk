@@ -1,0 +1,18 @@
+@model FAQViewModel
+@{
+    Layout = "_DashboardLayout";
+}
+
+<div class="recent-orders">
+    <form asp-controller="FAQ" asp-action="Edit" method="post">
+        <div asp-validation-summary="All"></div>
+        <input type="hidden" asp-for="FAQId">
+        <h2>Update FAQ</h2>
+        <select asp-for="ProductId" asp-items="ViewBag.Products" required>
+            <option value="">Select Product</option>
+        </select>
+        <input type="text" asp-for="Header" placeholder="FAQ Title" required>
+        <input type="text" asp-for="Context" placeholder="FAQ Context" required>
+        <button type="submit">Save</button>
+    </form>
+</div>

@@ -1,0 +1,35 @@
+@model EditUserViewModel
+@{
+Layout = "_DashboardLayout";
+}
+
+<div class="recent-orders">
+    <form asp-controller="User" asp-action="Edit" method="post">
+        <div asp-validation-summary="All"></div>
+        <input type="hidden" name="id" value="@Model.Id">
+        <h2>Update User</h2>
+        <input asp-for="FullName" placeholder="Name" required>
+        <input asp-for="Email" placeholder="Email">
+        <input asp-for="Password" placeholder="Password">
+        <input asp-for="ConfirmPassword" placeholder="Confirm Password">
+        <div class="roles-container">
+            @if(ViewBag.Roles != null) {
+                @foreach(var role in ViewBag.Roles) {
+                    <div class="checkbox-container">
+                        <input type="checkbox" 
+                        id="@role" 
+                        name="SelectedRoles" 
+                        value="@role" 
+                        class="custom-checkbox"
+                        @if(Model.SelectedRoles != null) {
+                            @(Model.SelectedRoles.Any(i=>i==role) ? "checked":"")
+                        }                
+                        >
+                        <label for="@role" class="custom-label">@role</label>
+                    </div>
+                    }
+            }          
+        </div>
+        <button type="submit">Save</button>
+    </form>
+</div>
