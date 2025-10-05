@@ -19,6 +19,12 @@
 
 HelpDesk is a comprehensive enterprise-grade ticket management system designed to streamline customer support operations. Built with ASP.NET Core 7.0, it provides a robust platform for managing support tickets, user roles, product categories, and FAQs with an intuitive interface and powerful admin capabilities.
 
+I used the Brevo email marketing service for my project, but I had to leave the "Username" and "Password" fields in the appsettings.Development.json file blank. However, the system is usable with the admin email address and password.
+
+Admin Email: boraoker42@gmail.com
+
+Admin Password: Admin_123
+
 &nbsp;
 
 ## ✨ Features
