@@ -237,7 +237,7 @@ The application uses two separate database contexts:
 &nbsp;
 
 ### Ticket Creation
-![Ticket Creation](path/to/your/screenshot.png)
+![Ticket Creation](img/Ticket.png)
 &nbsp;
 
 &nbsp;
@@ -245,7 +245,7 @@ The application uses two separate database contexts:
 &nbsp;
 
 ### Admin Dashboard
-![Admin Dashboard](path/to/your/screenshot.png)
+![Admin Dashboard](img/Admin.png)
 &nbsp;
 
 &nbsp;
