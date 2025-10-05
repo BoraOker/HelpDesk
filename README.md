@@ -228,18 +228,8 @@ The application uses two separate database contexts:
 
 ## 📸 Screenshots
 
-> **Add your application screenshots here**
-
 ### Home Page
-![Screenshot Description](path/to/your/screenshot.png)
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### Login & Registration
-<!-- Screenshot placeholder -->
+![Home Page](path/to/your/screenshot.png)
 &nbsp;
 
 &nbsp;
@@ -247,7 +237,7 @@ The application uses two separate database contexts:
 &nbsp;
 
 ### Ticket Creation
-<!-- Screenshot placeholder -->
+![Ticket Creation](path/to/your/screenshot.png)
 &nbsp;
 
 &nbsp;
@@ -255,39 +245,7 @@ The application uses two separate database contexts:
 &nbsp;
 
 ### Admin Dashboard
-<!-- Screenshot placeholder -->
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### Ticket Management
-<!-- Screenshot placeholder -->
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### User Management
-<!-- Screenshot placeholder -->
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### Product & Category Management
-<!-- Screenshot placeholder -->
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-### FAQ Management
-<!-- Screenshot placeholder -->
+![Admin Dashboard](path/to/your/screenshot.png)
 &nbsp;
 
 &nbsp;
@@ -379,19 +337,15 @@ This project is available for portfolio and educational purposes.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
+**Bora Öker**
+- GitHub: [@BoraOker](https://github.com/BoraOker)
+- LinkedIn: [Bora Öker](https://www.linkedin.com/in/bora-%C3%B6ker-98685425b/)
+- Email: boraoker.dev@gmail.com
 &nbsp;
 
 ---
 
 <div align="center">
 
-**⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ using ASP.NET Core
 
 </div>
